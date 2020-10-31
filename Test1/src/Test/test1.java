@@ -1,6 +1,6 @@
 package Test;
 
-public class test1 {
+public class Test1 {
   //122334r3rewfcdcff
 
 }
